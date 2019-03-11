@@ -57,5 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+#credentials
+credentials/*.json
+
 # next.js build output
 .next
